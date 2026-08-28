@@ -23,20 +23,16 @@
 
 ## About me
 
-Senior Software Engineer and Technical Lead with **13+ years** building and scaling enterprise software across **payments** and **telecom**. I have led cross-functional teams through cloud migrations and the modernization of legacy platforms, driving secure, high-availability system design, and I apply that same engineering discipline to production AI systems today.
+**AI Engineer and Tech Lead.**
 
-I care about the parts that make software survive: architecture that holds under load, pipelines that ship safely, and teams that can move fast without breaking trust.
+I build products from the ground up and help organizations turn specific business needs into scalable technological solutions.
 
-<details>
-<summary><b>Leelo en espanol</b></summary>
+- **SaaS & AI:** Designing and shipping AI products.
+- **Enterprise Delivery:** PMP-certified with 13+ years leading technical teams and managing complex delivery across agile and hybrid environments.
 
-<br/>
+👉 [rosmelortiz.com](https://rosmelortiz.com)
 
-Ingeniero de Software Senior y Lider Tecnico con **mas de 13 anos** construyendo y escalando software empresarial en los sectores de **pagos** y **telecomunicaciones**. He liderado equipos multidisciplinarios en migraciones a la nube y en la modernizacion de plataformas legacy, impulsando disenos de sistemas seguros y de alta disponibilidad, y hoy aplico esa misma disciplina de ingenieria a sistemas de IA en produccion.
-
-Me importan las partes que hacen que el software sobreviva: arquitecturas que aguantan carga, pipelines que despliegan sin sustos, y equipos que pueden ir rapido sin romper la confianza.
-
-</details>
+𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗰𝗼𝗻𝘀𝗶𝘀𝘁𝗲𝗻𝘁𝗹𝘆.
 
 ---
 
