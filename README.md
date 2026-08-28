@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Rosmel%20Ortiz&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Senior%20Software%20Engineer%20%C2%B7%20Senior%20Tech%20Lead&descAlignY=54&descSize=18" width="100%" alt="Rosmel Ortiz" />
 
 <a href="https://rosmelortiz.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=58A6FF&center=true&vCenter=true&width=780&lines=13%2B+years+building+enterprise+software+at+scale;Payments+%E2%80%A2+Telecom+%E2%80%A2+Cloud+%E2%80%A2+DevSecOps;Leading+cross-functional+teams+through+modernization;Now+shipping+production+GenAI+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=2C5364&center=true&vCenter=true&width=780&lines=13%2B+years+building+enterprise+software+at+scale;Payments+%E2%80%A2+Telecom+%E2%80%A2+Cloud+%E2%80%A2+DevSecOps;Leading+cross-functional+teams+through+modernization;Now+shipping+production+GenAI+systems" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -181,11 +181,9 @@ Peru's largest telecom operator.
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/58A6FF/rosmelortizpimentel" width="100%" alt="Contribution graph" />
-
-<br/>
-
 <img src="https://img.shields.io/github/followers/rosmelortizpimentel?style=for-the-badge&logo=github&label=Followers&color=203A43" alt="Followers" />
+
+<sub>The contribution graph below includes private work on client platforms.</sub>
 
 </div>
 
